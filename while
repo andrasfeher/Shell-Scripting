@@ -1,0 +1,1 @@
+/etc/fstab:UUID=7e8fe50f-1618-4244-8bf7-7f74f3c8bf61 /               ext4    errors=remount-ro 0       1
